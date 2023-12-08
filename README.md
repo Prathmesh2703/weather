@@ -1,1 +1,1 @@
-# weather
+This weather app provides real-time weather information for any location in the world.![Screenshot 2023-12-09 at 12 26 02 AM](https://github.com/Prathmesh2703/weather/assets/114589702/9b8bcc52-d362-4b74-9bad-0b3df940f876)
